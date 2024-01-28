@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aravind/Desktop/End-to-End-ML-Project/mlruns/0/3af9e76cd08c40788af4b545a0e7a5cd/artifacts
+end_time: 1706478640431
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3af9e76cd08c40788af4b545a0e7a5cd
+run_name: vaunted-calf-445
+run_uuid: 3af9e76cd08c40788af4b545a0e7a5cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706478635690
+status: 3
+tags: []
+user_id: aravind
