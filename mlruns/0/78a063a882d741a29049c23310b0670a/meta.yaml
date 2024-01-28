@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aravind/Desktop/End-to-End-ML-Project/mlruns/0/78a063a882d741a29049c23310b0670a/artifacts
+end_time: 1706476265474
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 78a063a882d741a29049c23310b0670a
+run_name: intelligent-sow-9
+run_uuid: 78a063a882d741a29049c23310b0670a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706476259881
+status: 3
+tags: []
+user_id: aravind
